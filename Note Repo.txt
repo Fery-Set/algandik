@@ -1,0 +1,12 @@
+
+
+1. git status
+
+2. git add .  (utk buat merah jadi hijau)
+
+3. git commit -m "Keterangan tambahan"
+
+4. git push -u origin main
+
+
+
