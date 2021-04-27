@@ -9,4 +9,6 @@
 4. git push -u origin main
 
 
-catatan ini di edit
+  di edit
+
+dihapus lagi
